@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redystum
-Its my profile!!!
+- Its my profile!!!
 - 🌱 I’m currently learning Js, Py, HTML, CSS
 - 📫 How to reach me on https://www.instagram.com/ruben_alves__/
 
