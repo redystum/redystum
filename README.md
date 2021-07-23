@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redystum
 - Its my profile!!!
-- 🌱 I’m currently learning Js, Py, HTML, CSS
+- 🌱 I’m currently learning C, C#, JS, HTML, CSS, Java, Python
 - 📫 How to reach me on https://www.instagram.com/ruben_alves__/
 
 <!---
