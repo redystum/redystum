@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Rúben Alves <br>
+
 I’m currently learning C, C#, JS, HTML, CSS, Java, Python, MySQL<br>
 But, isn't that too much language to learn at the same time?<br>
 nop, because there's always something else to learn...<br>
 
-My instagram:<br>
+My instagram: <br>
 https://www.instagram.com/ruben_alves__/
 
 <!---
