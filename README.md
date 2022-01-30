@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Rúben Alves <br>
 
 I am a python fanatic, most of my work is in py, but soon new languages will appear here on github <br>
-I am Portugueseand and I am studying computer science in Colegio São Miguel, Fátima
+I am Portugueseand and I am studying computer science in Colegio São Miguel, where I am learning: 
+- C
+- Html, Css, Php, MySql
+- JavaScript
+- Java
 
 <br>
 
