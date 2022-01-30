@@ -24,6 +24,12 @@ I am Portuguese and I am studying computer science in Colegio São Miguel, where
 
 
 
+<!-- 
+https://github.com/Ileriayo/markdown-badges 
+https://github.com/ankurparihar/readme-pagespeed-insights
+https://github.com/DenverCoder1/readme-typing-svg
+https://github.com/ankurparihar/readme-pagespeed-insights
+-->
   
 <!---
 redystum/redystum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
