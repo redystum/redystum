@@ -3,13 +3,14 @@
 I’m currently learning C, JS, HTML, CSS, Java, Python, MySQL<br>
 But, isn't that too much language to learn at the same time?<br>
 nop, because there's always something else to learn...<br>
+
 <br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=redystum&show_icons=true&theme=dark"/><br>
+
 <a href="https://www.instagram.com/ruben_alves__/" target="_blank" rel="external"><img src="./images/instagram.png" width="30" alt="My instagram">
   
-  <div style="display: inline_block">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redystum&show_icons=true&theme=dark"/><br>
-</div>
+
 
 
 
