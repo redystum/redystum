@@ -9,7 +9,7 @@ nop, because there's always something else to learn...<br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redystum&show_icons=true&theme=dark"/>
   &ensp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redystum&layout=compact&langs_count=7&theme=dark"/> <br>
 </div>
 
 <a href="https://www.instagram.com/ruben_alves__/" target="_blank" rel="external"><img src="./images/instagram.png" width="30" alt="My instagram"></a>
