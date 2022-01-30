@@ -19,6 +19,8 @@ I am Portuguese and I am studying computer science in Colegio São Miguel, where
   
 ![Snake animation](https://github.com/redystum/redystum/blob/output/github-contribution-grid-snake.svg)
 
+![Instagram](https://img.shields.io/badge/ruben__alves____-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 
 
   
