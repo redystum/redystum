@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rúben Alves <br>
 
-I am a python fanatic, but now i'm focused on webdev, mostly backend. <br>
-I am Portuguese and I am studying computer science in Colegio São Miguel. <br>
+I'm a fullstack developer, mainly backend, with a passion for python. <br>
+I'm Portuguese and studied computer science at Colégio de São Miguel. <br>
 The main languages I use are:
 - PHP / Laravel, JS, HTML, CSS, MySQL
 - Python
