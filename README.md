@@ -5,7 +5,7 @@ I'm Portuguese and studied computer science at Colégio de São Miguel. <br>
 The main languages I use are:
 - PHP / Laravel, JS, HTML, CSS, MySQL
 - Python, C
-- Currently learning: React, Android / Kotlin
+- Currently learning: React, Android / Kotlin, Assembly for MIPS
 
 <br>
 
