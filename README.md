@@ -2,6 +2,7 @@
 
 I'm a fullstack developer, mainly backend, with a passion for python. <br>
 I'm Portuguese and studied computer science at Colégio de São Miguel. <br>
+Currently enrolled at IPL (Polytechnic Institute of Leiria) in the Computer Engineering degree.  <br>
 The main languages I use are:
 - PHP / Laravel, JS, HTML, CSS, MySQL
 - Python, C
