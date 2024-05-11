@@ -4,9 +4,9 @@ I'm a fullstack developer, mainly backend, with a passion for python. <br>
 I'm Portuguese and studied computer science at Colégio de São Miguel. <br>
 Currently enrolled at IPL (Polytechnic Institute of Leiria) in the Computer Engineering degree.  <br>
 The main languages I use are:
-- PHP / Laravel, JS, HTML, CSS, MySQL
+- PHP / Laravel, JS / TS, HTML, CSS, MySQL
 - Python, Java, C
-- Currently learning: React, Android / Kotlin, Assembly for MIPS
+- Currently learning: React, Android / Kotlin
 
 <br>
 
@@ -18,7 +18,12 @@ The main languages I use are:
 </div>
 
   
-![Snake animation](https://github.com/redystum/redystum/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/redystum/redystum/blob/output/github-contribution-grid-snake.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/redystum/redystum/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/redystum/redystum/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/redystum/redystum/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
