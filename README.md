@@ -13,7 +13,7 @@ The main languages I use are:
 <div align="center">
   <img height="140em" src ="https://github-readme-stats.vercel.app/api?username=redystum&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000">
   &ensp;
-  <img height="140em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=redystum&layout=compact&hide_border=true&count_private=true&theme=dark&bg_color=00000000&langs_count=6">
+  <img height="140em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=redystum&layout=compact&hide_border=true&count_private=true&theme=dark&bg_color=00000000&hide=CSS,hack&langs_count=6">
  <!-- <img height="140em" src="https://github-readme-stackoverflow.vercel.app/?userID=17767138&theme=dark" /> -->
 </div>
 
