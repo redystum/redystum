@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rúben Alves <br>
 
-I'm a fullstack developer, mainly backend, with a passion for python. <br>
+I'm a fullstack developer, mainly backend, with a passion for python and more recently C. <br>
 I'm Portuguese and studied computer science at Colégio de São Miguel. <br>
 Currently enrolled at IPL (Polytechnic Institute of Leiria) in the Computer Engineering degree.  <br>
 The main languages I use are:
